@@ -77,13 +77,13 @@
    ============================================================ */
 const CONFIG = {
   // --- Spotify ---
-  SP_CLIENT_ID:  "DEINE_SPOTIFY_CLIENT_ID",
+  SP_CLIENT_ID:  "907e3a50218b4aaca088911fd3bc6803",
   SP_REFRESH:    "",                 // optional fest eintragen (sonst per Setup speichern)
   // --- Twitch ---
   TW_CLIENT_ID:  "DEINE_TWITCH_CLIENT_ID",
   REWARD_TITLE:  "Song Request",     // exakter Name deiner Channel-Points-Belohnung (mit Text-Eingabe!)
   // --- gemeinsam ---
-  REDIRECT_URI:  "https://DEINNAME.github.io/spotify-overlay/", // Pages-URL, in BEIDEN Apps als Redirect eintragen
+  REDIRECT_URI:  "https://deepezzz.github.io/", // Pages-URL, in BEIDEN Apps als Redirect eintragen
 
   // --- Look / Verhalten ---
   accent:   "#1ec8d8",
