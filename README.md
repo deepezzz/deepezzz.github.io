@@ -80,7 +80,7 @@ const CONFIG = {
   SP_CLIENT_ID:  "907e3a50218b4aaca088911fd3bc6803",
   SP_REFRESH:    "",                 // optional fest eintragen (sonst per Setup speichern)
   // --- Twitch ---
-  TW_CLIENT_ID:  "DEINE_TWITCH_CLIENT_ID",
+  TW_CLIENT_ID:  "DEINE_TWITCH_CLIENT",
   REWARD_TITLE:  "Song Request",     // exakter Name deiner Channel-Points-Belohnung (mit Text-Eingabe!)
   // --- gemeinsam ---
   REDIRECT_URI:  "https://deepezzz.github.io/", // Pages-URL, in BEIDEN Apps als Redirect eintragen
